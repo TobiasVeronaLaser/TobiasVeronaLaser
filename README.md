@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Tobi
+# Hi there 👋, I'm Tobi 
 
 Welcome to my GitHub profile.  
 I use GitHub for software development, academic work, and long-term personal projects.
@@ -7,21 +7,49 @@ I use GitHub for software development, academic work, and long-term personal pro
 
 ## 🔭 Current Work
 
-- [**OpenICU**](https://github.com/aidh-ms/OpenICU)
-  Contributing to a modular ETL and analytics framework for ICU research data.  
-  
+- [**OpenICU**](https://github.com/aidh-ms/OpenICU)  
+  Contributing to a modular ETL and analytics framework for ICU research data.
 
-- [**Mission to Earth**](https://github.com/TobiasVeronaLaser/Mission-to-Earth ) 
+- [**Mission to Earth**](https://github.com/TobiasVeronaLaser/Mission-to-Earth)  
   I am developing the digital version of the educational card game *Mission to Earth* in **Godot 4**  
-  (C# + GDScript). My focus is on game logic, UI systems, and overall gameplay structure.  
+  (C# + GDScript). My focus is on game logic, UI systems, and overall gameplay structure.
 
 ---
 
 ## 💼 What I Work With
+
+### Core Technologies
 - Python  
-- C# (Godot 4)  
+- C#  
 - GDScript  
-- LaTeX (notes, drafts, study materials)
+- Java  
+- Git  
+- Polars  
+- SQL / Databases (MySQL)
+
+### Web & Backend
+- Django  
+- React.js  
+- Node.js  
+- JavaScript  
+- HTML  
+- CSS  
+
+### Software Engineering & Tooling
+- Software design patterns  
+- Object-oriented programming (OOP)  
+- Software development fundamentals  
+- Flowcharts & procedural diagrams  
+- .NET Framework
+
+### Game Development
+- Godot 4 (C# + GDScript)
+
+### Other
+- Microsoft Office  
+- AutoCAD 2019  
+- English  
+- German  
 
 ---
 
@@ -41,8 +69,9 @@ I use GitHub for software development, academic work, and long-term personal pro
 ---
 
 ## 📫 Contact
-- GitHub: `@TobiasVeronaLaser`  
-- Email: *your-email-here*
+- GitHub: WIP  
+- Email: WIP  
+- LinkedIn: WIP
 
 ---
 
