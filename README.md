@@ -1,19 +1,49 @@
-## Hi there 👋, I'm Tobi
+# Hi there 👋, I'm Tobi
 
-### 🔭 I'm currently working on [OpenICU](https://github.com/aidh-ms/OpenICU)
+Welcome to my GitHub profile.  
+I use GitHub for software development, academic work, and long-term personal projects.
 
+---
 
-<!--
-**TobiasVeronaLaser/TobiasVeronaLaser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔭 Current Work
 
-Here are some ideas to get you started:
+- [**OpenICU**](https://github.com/aidh-ms/OpenICU)
+  Contributing to a modular ETL and analytics framework for ICU research data.  
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [**Mission to Earth**](https://github.com/TobiasVeronaLaser/Mission-to-Earth ) 
+  I am developing the digital version of the educational card game *Mission to Earth* in **Godot 4**  
+  (C# + GDScript). My focus is on game logic, UI systems, and overall gameplay structure.  
+
+---
+
+## 💼 What I Work With
+- Python  
+- C# (Godot 4)  
+- GDScript  
+- LaTeX (notes, drafts, study materials)
+
+---
+
+## 📚 What You’ll Find Here
+- Software and tooling projects  
+- Game development prototypes  
+- LaTeX repositories for university-related work  
+- Internal experiments and smaller utilities
+
+---
+
+## 🧠 What I’m Exploring
+- Data engineering and pipeline design  
+- Game-logic architecture and UI systems  
+- Scientific computing
+
+---
+
+## 📫 Contact
+- GitHub: `@TobiasVeronaLaser`  
+- Email: *your-email-here*
+
+---
+
+More content will follow as my projects evolve.
